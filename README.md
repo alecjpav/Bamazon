@@ -10,14 +10,10 @@ The supervisor view allows the supervisor to view overhead costs, product sales 
 
 See screenshots below.
 
-Bamazon Customer View:
-http://oi64.tinypic.com/284eud.jpg
+[Bamazon Customer View](http://oi64.tinypic.com/284eud.jpg)
 
-Bamazon Manager View:
-http://i63.tinypic.com/2m9y8h.png
+[Bamazon Manager View](http://i63.tinypic.com/2m9y8h.png)
 
-Bamazon Supervisor View:
-http://i63.tinypic.com/i5aomh.png
+[Bamazon Supervisor View](http://i63.tinypic.com/i5aomh.png)
 
-Scenario where an item is listed in a newly created department then sells out:
-http://i63.tinypic.com/2czpnhl.png
+[Scenario where an item is listed in a newly created department then sells out](http://i63.tinypic.com/2czpnhl.png)
