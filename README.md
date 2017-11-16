@@ -6,7 +6,7 @@ The customer view shows all the items for sale. The customer selects the item he
 
 The manager view allows the manager to view all stock, view low quanitity stock (stock below 5 units), add new stock to an existing item, and add a new item with price and quanitity.
 
-The supervisor view allows the supervisor to view overhead costs, product sales and total prodit by department, as well as to create new departments that the manager can add new products under. 
+The supervisor view allows the supervisor to view overhead costs, product sales and total profit by department, as well as to create new departments that the manager can add new products under. 
 
 See screenshots below.
 
